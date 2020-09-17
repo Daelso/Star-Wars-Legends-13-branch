@@ -1,0 +1,4 @@
+<h1>Welcome to the Star Wars: Legends 13 codebase!</h1>
+
+<i>A Game set in a galaxy far far away.</i>
+<br><br>
